@@ -1,0 +1,9 @@
+.image-card {
+  max-width: 500px; /* Match your design */
+  margin: 0 auto; /* Center the card */
+}
+
+img {
+  aspect-ratio: 3/2; /* Replace Bulma's is-3by2 */
+  object-fit: cover; /* Prevent image distortion */
+}
